@@ -1,0 +1,56 @@
+ul {
+	float: right;
+	list-style-type: none;
+  	text-align: center;
+  	margin: 0;
+  	background-color: #C1C1C1;
+  	padding: 20px;
+ 
+  	
+}
+
+li {
+	display: inline-flex;
+	color:#C1C1C1 ;
+  	font-size: 20px;
+  	padding-right: 130px;
+  	
+}
+
+.navbar-brand {
+	font-size: 50px;
+	padding: 50px;
+	padding-top: 20px;	
+}
+
+body {
+	background-image: url(books.jpg);
+	background-size: auto;
+
+
+}
+
+nav {
+	background-color: #C1C1C1;
+	padding: 30px;
+}
+
+h1 {
+	background: url(gray.jpeg);
+	background-repeat: no-repeat;
+    background-size: 220px ;
+
+
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+
+}
+
+
+
